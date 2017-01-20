@@ -19,8 +19,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 10 | 1/17 | Regularization | | **[Final Project 1](./final-project/1)** |
 =======
 | [10](./classes/10) | 1/17 | [Regularization](./classes/10) | | **[Final Project 1](./final-project/1)** |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 11 | 1/19 | Logistic Regression | | **[Unit Project 2](./unit-project/2)** |
+=======
+| [11](./classes/11) | 1/19 | [Logistic Regression](./classes/11) | | **[Unit Project 2](./unit-project/2)** |
+>>>>>>> upstream/master
 | 12 | 1/24 | Applied Machine Learning Modeling | | |
 | 13 | 1/26 | Advanced Metrics | **[Final Project 2](./final-project/2)** | |
 | 14 | 1/31 | Clustering | **[Unit Project 3](./unit-project/3)** | |
